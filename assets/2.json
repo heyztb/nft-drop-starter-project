@@ -1,0 +1,23 @@
+{
+  "name": "art piece by nelly baksht",
+  "symbol": "NBAK",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DyMhJ5DWQMwq3tLP1Z1DkdkSPMxAGwqCnX8fuCyy82Ah",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "test collection",
+    "family": "test collection"
+  }
+}
